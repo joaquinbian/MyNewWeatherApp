@@ -1,0 +1,21 @@
+.input {
+  border-radius: 4px;
+}
+.button {
+  border-radius: 4px;
+  background-color: transparent;
+  padding: 5px;
+  margin: 5px;
+  color: green;
+  border: green 1px solid;
+}
+.button:hover {
+  /* background-color: black; */
+  color: white;
+  border-color: white;
+}
+@media screen and(max-width: 400px) {
+  .form {
+    display: flex;
+  }
+}

@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap");
+
+.aboutTitle {
+  font-family: "Fjalla One";
+  border-bottom: 1px black solid;
+  margin-bottom: 3%;
+}
+.aboutContainer {
+  width: 50%;
+  border: 1px white solid;
+  border-radius: 2em;
+  padding: 2%;
+}
