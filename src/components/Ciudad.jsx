@@ -65,26 +65,3 @@ export default function Ciudad({ city }) {
     </div>
   );
 }
-{
-  /* <h1 className="titleCity">{city.name}</h1>
-          <div className="details">
-            <div className="data">
-              <h4>Temperatura:</h4> <h5 className="rta">{city.temp} ºC</h5>
-            </div>
-            <div className="data">
-              <h4>Clima:</h4> <h5 className="rta">{city.weather}</h5>
-            </div>
-            <div className="data">
-              <h4>Viento:</h4> <h5 className="rta">{city.wind} km/h</h5>
-            </div>
-            <div className="data">
-              <h4>Cantidad de nubes:</h4> <h5 className="rta">{city.clouds}</h5>
-            </div>
-            <div className="data">
-              <h4>Latitud:</h4> <h5 className="rta">{city.latitud}º</h5>
-            </div>
-            <div className="data">
-              <h4>Longitud:</h4> <h5 className="rta">{city.longitud}º</h5>
-            </div>
-          </div> */
-}

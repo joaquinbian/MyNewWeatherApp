@@ -44,11 +44,11 @@
   "main": "submit.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joaquinbian/WeatherApp.git"
+    "url": "git+https://github.com/joaquinbian/MyNewWeatherApp.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joaquinbian/WeatherApp/issues"
+    "url": "https://github.com/joaquinbian/MyNewWeatherApp/issues"
   }
 }

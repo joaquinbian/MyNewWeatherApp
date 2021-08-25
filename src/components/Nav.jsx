@@ -8,7 +8,7 @@ function Nav({ onSearch }) {
   return (
     <div className="navContainer">
       <div className="leftSide">
-        <NavLink to="/">
+        <NavLink exact to="/">
           <img src={Logo} className="logo" alt=""></img>
         </NavLink>
         <div className="title">Weather App</div>
